@@ -1,0 +1,131 @@
+Análise da turma de requisitos não funcionais:
+
+ícone de início - tamanho da casinha (Alexksandro)
+
+cor vermelho do "ao vivo" (Jaqueline)
+
+botão tudo, o que está escrito e o preto em volta (Marcelo)
+
+cores de fundo do menu em baixo da barra de pesquisa (Ana)
+
+cores das letras das palavras (Daniel)
+
+palavra "Inscrições" do menu lateral esquerdo (Murilo)
+
+a logo do site (Mariele)
+
+o design do ícone do microfone ao lado da barra de pesquisa (Renato)
+
+o tipo da fonte (Wagner)
+
+os quadradinhos (elementos de imagens dos painéis de vídeos) de cada vídeo (Maria), Alexksandro sugeriu o nome "capas"
+
+ícone do canal (perfil) do canto superior direito (Samuel)
+
+ícone do sino do lado do perfil (Vinícius)
+
+ícone de partitura ao lado do menu "Música" do lado esquerdo, dentro da seção "Explorar" (Miguel)
+
+a palavra "Explorar" do menu lateral esquerdo (Yuri)
+
+o nome de cada canal em baixo do título de cada vídeo (Lucas)
+
+Cor azul do botão de fazer login (André)
+
+a quantidade de visualizações de cada vídeo (Alfredo)
+
+botão de mix, de vários mix de sequência (Rafael)
+
+alinhamento das thumbnails, tanto horizontal, quanto vertical (Jefferson)
+
+barra separadora de menus laterais esquerdos (prof)
+
+cor do canal do menu "inscrições" do lado esquerdo, quando estiver em live (Rafael)
+
+o selinho de canal verificado ao lado direito do nome do canal em cada vídeo (Alfredo)
+
+a palavra "Pesquisar" dentro da barra de pesquisa na parte superior do site (André)
+
+o filtro "Jogos Olímpicos", porque está em época de jogos olímpicos (Lucas)
+
+os três pontinho ao lado direito do título de cada vídeo (Yuri)
+
+filtro "Ao vivo" em baixo da barra de pesquisar (Miguel)
+
+os títulos dos vídeos (Vinícius)
+
+os ícones da barra de menu lateral esquerdo (Samuel)
+
+a cor de fundo e o formato dos ícones do tempo de cada vídeo (Maria)
+
+espaçamento entre os ícones no canto superior direito da página (Wagner)
+
+tipo da lupa utilizada na barra de pesquisar (Renato)
+
+espaçamento superior dos títulos das seções do menu lateral esquerdo (Mariele)
+
+a setinha ">" que tem no lado da palavra "Você" no menu lateral esquerdo (Murilo)
+
+o tipo de alinhamento da escrita a direita em baixo dos vídeos (Daniel)
+
+o negrito de algumas palavras, por exemplo: "Explorar" que está dentro do menu lateral esquerdo (Ana)
+
+o negrito do título da logo "YouTube" (Marcelo)
+
+o ícone do reloginho ao lado esquerdo do menu lateral esquerdo "Histórico" (Jaqueline)
+
+ícone de câmera com o sinal de "+" dentro do símbolo da câmera no canto superior direito (Alexksandro)
+
+o mostrador de qualidade "4k" dos vídeos (Jefferson)
+
+os cantos arredondados das imagens dos vídeos (Lucas)
+
+
+
+
+Análise da turma de requisitos funcionais do site do youtube:
+
+ícone do youtube na esquerda em cima vai pro início (Jefferson)
+
+o banner de anúncio parte central de cima da página que vai levar para o site ou vídeo do anunciante (Rafael)
+
+a thumbnail dos vídeos que vai te levar ao vídeo que for clicado (Alfredo)
+
+quando passar o mouse em cima de uma thumbnail vai dar "play" (preview) sem áudio no vídeo (André)
+
+quando estiver em época de jogos olímpicos, mostrar o filtro "Jogos Olímpicos" (Lucas)
+
+ao clicar no título do canal será redirecionado para o canal e não para o vídeo (Yuri)
+
+quando clicar no terceiro menu lateral esquerdo: "Inscrições", será redirecionado para os canais que você está inscrito, se você estiver logado (Miguel)
+
+a barra pesquisar vai direcionar para os resultados da pesquisa do texto digitado (Vinícius)
+
+na aba (menu lateral esquerdo) "Você" tem o histórico de vídeos que foi assistido, quando logado (Samuel)
+
+os três pontinhos de cada vídeo que vai mostrar mais opções (Maria)
+
+o botão shorts (menu lateral esquerdo) da esquerda vai redirecionar para um página de apenas vídeos curtos, que, muda o layout de visualização do site/app, logado ou não (Wagner)
+
+dentro do ícone pesquisar, quando clicar no ícone do teclado, aparecerá um teclado virtual no canto inferior direito da página (Renato)
+
+o botão "Início" (primeiro menu lateral esquerdo) que vai iniciar a página (Mariele)
+
+a setinha ">" ao lado direito no menu de filtros da barra de navegação, que aparece outras opções de navegação (Murilo)
+
+no ícone das três linhas no canto superior esquerdo, quando clicado, expande a barra lateral, logado ou não (Daniel)
+
+a amostragem da barra de rolagem quando passa o mouse sobre o menu a esquerda (Ana)
+
+o microfone quando clicado, vai pedir permissão pra usar o microfone, no primeiro uso (Marcelo)
+
+a lupa na barra de pesquisa, quando clicada, vai buscar pelo texto digitado (Jaqueline)
+
+o ícone de câmera, ao clicar aparece três opções (Alexksandro)
+
+
+
+
+
+
+
